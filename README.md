@@ -2,5 +2,5 @@
 
 By App Programming
 
-## 
-First_App > lib > dartmain
+## How to see what I do
+first_app > lib > main.dart
