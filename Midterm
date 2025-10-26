@@ -176,8 +176,8 @@ State
 
 ## Column, Row  위젯 방향
 
-- Column - 세로
-- Row - 가로
+- Column : 세로
+- Row : 가로
 
 ## Animated Container 의 기능
 
